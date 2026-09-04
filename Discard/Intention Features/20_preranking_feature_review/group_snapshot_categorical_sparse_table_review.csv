@@ -1,0 +1,34 @@
+dataset,feature_name,horizon_sec,levels,minimum_expected_count,fraction_expected_cells_below_5,sparse_rxk_review_required,recommended_action
+group_snapshot,location_id,1,6,9.931183960986182,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,location_id,2,6,19.2652397724194,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,location_id,3,6,24.199403955567597,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,traffic_period,1,2,50.59767000812788,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,traffic_period,2,2,98.15307504741263,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,traffic_period,3,2,123.29179084259009,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,veh1_present,1,2,13.441343809265781,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,veh1_present,2,2,26.074505554050393,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,veh1_present,3,2,32.752641560552696,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,veh1_ttc_infinite,1,2,144.51584936331616,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,veh1_ttc_infinite,2,2,280.3424546193443,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,veh1_ttc_infinite,3,2,352.14305066377676,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,veh1_class,1,14,0.2568409645082633,0.25,True,merge defensible rare levels or use permutation chi-square sensitivity
+group_snapshot,veh1_class,2,14,0.4982389596315362,0.21428571428571427,True,merge defensible rare levels or use permutation chi-square sensitivity
+group_snapshot,veh1_class,3,14,0.6258466540232999,0.17857142857142858,True,merge defensible rare levels or use permutation chi-square sensitivity
+group_snapshot,veh2_present,1,2,30.735302086155514,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,veh2_present,2,2,59.62259550257383,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,veh2_present,3,2,74.8929829314549,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,veh2_ttc_infinite,1,2,144.2590083988079,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,veh2_ttc_infinite,2,2,279.8442156597128,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,veh2_ttc_infinite,3,2,351.51720400975347,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,veh2_class,1,13,0.17122730967217556,0.19230769230769232,True,merge defensible rare levels or use permutation chi-square sensitivity
+group_snapshot,veh2_class,2,13,0.3321593064210241,0.11538461538461539,True,merge defensible rare levels or use permutation chi-square sensitivity
+group_snapshot,veh2_class,3,13,0.41723110268219993,0.11538461538461539,True,merge defensible rare levels or use permutation chi-square sensitivity
+group_snapshot,veh3_present,1,2,49.399078840422646,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,veh3_present,2,2,95.82795990246545,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,veh3_present,3,2,120.37117312381469,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,veh3_ttc_infinite,1,2,139.29341641831482,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,veh3_ttc_infinite,2,2,270.2115957735031,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,veh3_ttc_infinite,3,2,339.41750203196966,0.0,False,standard chi-square/Fisher rule adequate
+group_snapshot,veh3_class,1,13,0.08561365483608778,0.2692307692307692,True,merge defensible rare levels or use permutation chi-square sensitivity
+group_snapshot,veh3_class,2,13,0.16607965321051205,0.15384615384615385,True,merge defensible rare levels or use permutation chi-square sensitivity
+group_snapshot,veh3_class,3,13,0.20861555134109996,0.15384615384615385,True,merge defensible rare levels or use permutation chi-square sensitivity

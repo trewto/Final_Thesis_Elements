@@ -1,0 +1,35 @@
+{
+  "status": "preranking_review_ready_user_decisions_required",
+  "selection_partition": "train_only",
+  "validation_used": false,
+  "test_used": false,
+  "numeric_screen_abs_rho": 0.8,
+  "hard_same_concept_review_abs_rho": 0.9,
+  "categorical_review_cramers_v": 0.8,
+  "automatic_feature_deletion": false,
+  "summary": {
+    "individual": {
+      "training_rows": 28139,
+      "candidate_rows": 77,
+      "numeric_or_count": 64,
+      "categorical_or_binary": 13,
+      "numeric_pairs_ge_0p80": 51,
+      "numeric_pairs_ge_0p90": 14,
+      "categorical_pairs_v_ge_0p80": 3,
+      "sparse_rxk_horizon_tables": 9,
+      "raw_vif_ge_5": 37
+    },
+    "group_snapshot": {
+      "training_rows": 3691,
+      "candidate_rows": 91,
+      "numeric_or_count": 80,
+      "categorical_or_binary": 11,
+      "numeric_pairs_ge_0p80": 92,
+      "numeric_pairs_ge_0p90": 31,
+      "categorical_pairs_v_ge_0p80": 3,
+      "sparse_rxk_horizon_tables": 9,
+      "raw_vif_ge_5": 57
+    }
+  },
+  "elapsed_sec": 34.27912939997623
+}

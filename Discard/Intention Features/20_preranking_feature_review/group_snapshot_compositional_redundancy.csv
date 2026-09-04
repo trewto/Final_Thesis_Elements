@@ -1,0 +1,3 @@
+dataset,composition_group,features,reference_feature_not_jointly_encoded,row_sum_mean,row_sum_min,row_sum_max,decision
+group_snapshot,group_gender,group_male_ratio|group_female_ratio|group_unknown_gender_ratio,group_unknown_gender_ratio,0.9999999753454348,0.999999,1.0000010000000001,retain all for reporting; omit reference component from joint model
+group_snapshot,group_age,group_young_ratio|group_adult_ratio|group_old_ratio|group_unknown_age_ratio,group_unknown_age_ratio,0.9999999734489299,0.999999,1.0000010000000001,retain all for reporting; omit reference component from joint model

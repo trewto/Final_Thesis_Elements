@@ -1,0 +1,4 @@
+dataset,feature_1,feature_2,cramers_v,screening_zone,automatic_deletion,review_note
+group_snapshot,veh3_present,veh3_class,0.9985079679719892,manual_review_ge_0p80,False,Review structural/deterministic relationship.
+group_snapshot,veh2_present,veh2_class,0.9985079679719892,manual_review_ge_0p80,False,Review structural/deterministic relationship.
+group_snapshot,veh1_present,veh1_class,0.9983722181286628,manual_review_ge_0p80,False,Review structural/deterministic relationship.

@@ -1,0 +1,4 @@
+,waiting_low_speed_time_sec,waiting_band_dwell_sec,window_low_speed_fraction
+waiting_low_speed_time_sec,1.0,0.8957825633836378,0.8584456698453282
+waiting_band_dwell_sec,0.8957825633836378,1.0,0.648243097944858
+window_low_speed_fraction,0.8584456698453282,0.648243097944858,1.0

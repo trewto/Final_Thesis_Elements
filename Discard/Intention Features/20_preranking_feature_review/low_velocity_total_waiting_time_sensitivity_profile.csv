@@ -1,0 +1,7 @@
+reporting_name,source_column,horizon_sec,outcome,rows,mean_sec,median_sec,p75_sec,p95_sec,max_sec
+low_velocity_total_waiting_time_sec,waiting_low_speed_time_sec,1,no_cross,26394,4.587444116086989,1.0,3.8,18.5,114.2
+low_velocity_total_waiting_time_sec,waiting_low_speed_time_sec,1,cross,1745,0.8619484240687678,0.1,0.6000000000000001,3.3000000000000003,44.3
+low_velocity_total_waiting_time_sec,waiting_low_speed_time_sec,2,no_cross,24338,4.875454022516229,1.1,4.2,19.6,114.2
+low_velocity_total_waiting_time_sec,waiting_low_speed_time_sec,2,cross,3801,1.032965009208103,0.2,0.8,3.8,44.3
+low_velocity_total_waiting_time_sec,waiting_low_speed_time_sec,3,no_cross,22972,5.07269719658715,1.2000000000000002,4.4,20.3,114.2
+low_velocity_total_waiting_time_sec,waiting_low_speed_time_sec,3,cross,5167,1.1718792335978325,0.2,1.0,4.3,44.3
